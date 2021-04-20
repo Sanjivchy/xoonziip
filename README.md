@@ -22,8 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sanjivchy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Sanjivchy" height="30" width="40" /></a>
+<a href="https://twitter.com/SAviduwai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SAviduwai" height="30" width="40" /></a>
 <!--
-<a href="https://twitter.com/singhyubaraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="singhyubaraj" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/yubaraj singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yubaraj singh" height="30" width="40" /></a>
 <a href="https://fb.com/yuvrajsinghthakuri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yuvrajsinghthakuri" height="30" width="40" /></a>
 <a href="https://instagram.com/yubarajsingh05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yubarajsingh05" height="30" width="40" /></a>
