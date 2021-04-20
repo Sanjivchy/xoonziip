@@ -4,10 +4,10 @@
 <h1 align="center">Hi 👋, I'm Sanjiv</h1>
 <h3 align="center">A passionate learner,designer,developer from Kathmandu</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yubarajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="yubarajsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xoonziip&label=Profile%20views&color=0e75b6&style=flat" alt="xoonziip"/> </p>
 
 
-<p align="left"> <a href="https://twitter.com/SAviduwai" target="blank"><img src="    https://img.shields.io/twitter/follow/SAviduwai?color=red&logo=Twitter&style=for-the-badge" alt="SAviduwai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SAviduwai" target="blank"><img src="https://img.shields.io/twitter/follow/SAviduwai?color=red&logo=Twitter&style=for-the-badge" alt="SAviduwai" /></a> </p>
 
 
 
@@ -15,9 +15,9 @@
     
 - 📫 How to reach me **Sanjivchaudhary416@gmail.com**
 
-<!-- ### Blogs posts
- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ ### Blogs posts
+ BLOG-POST-LIST:START
+ BLOG-POST-LIST:END
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
