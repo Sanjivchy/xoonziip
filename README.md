@@ -33,13 +33,13 @@
 
 <a href="https://instagram.com/sanjiiv.chaudhary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sanjiv chy" height="30" width="40" /></a>
 
+</p>
 <!-- <a href="https://dribbble.com/sanjiv" target="blank"><img align="center" src="https://cdn.
 jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sanjiv" height="30" width="40" /></a> -->
 
 <!-- <a href="https://www.behance.net/yubaraj singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="yubaraj singh" height="30" width="40" /></a> -->
 
-<!-- <a href="https://medium.com/yubarajsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="yubarajsingh" height="30" width="40" /></a>
-</p> -->
+<!-- <a href="https://medium.com/yubarajsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="yubarajsingh" height="30" width="40" /></a> -->
 
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xoonziip&show_icons=true&locale=en&layout=compact" alt="Sanjiv" /></p>
